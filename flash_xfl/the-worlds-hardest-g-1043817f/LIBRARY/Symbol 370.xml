@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 370" itemID="69d5d180-000000f8" lastModified="1775619668">
+     <timeline>
+          <DOMTimeline name="Symbol 370">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#f7d2c5" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#d2bcf5"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! 6000 -4530| -6000 -4530[ -6012 -4530 -6021 -4521| -6030 -4500| -6030 4500| -6021 4521[ -6012 4530 -6000 4530| 6000 4530[ 6012 4530 6021 4521| 6030 4500| 6030 -4500| 6021 -4521[ 6012 -4530 6000 -4530"/>
+                                                  <Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! -4530 -2500| -4530 -1530| -5000 -1530[ -5012 -1530 -5021 -1521| -5030 -1500| -5030 2500| -5021 2521[ -5012 2530 -5000 2530| 4000 2530[ 4012 2530 4021 2521[ 4030 2512 4030 2500| 4030 2030| 5000 2030[ 5012 2030 5021 2021| 5030 2000| 5030 1000[ 5030 988 5021 979[ 5012 970 5000 970| 4030 970| 4030 500[ 4030 488 4021 479[ 4012 470 4000 470| -2970 470| -2970 -1500[ -2970 -1512 -2979 -1521[ -2988 -1530 -3000 -1530| -3470 -1530| -3470 -2500[ -3470 -2512 -3479 -2521[ -3488 -2530 -3500 -2530| -4500 -2530| -4521 -2521| -4530 -2500"/>
+                                                  <Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! -3530 -2470| -3530 -1500[ -3530 -1488 -3521 -1479[ -3512 -1470 -3500 -1470| -3030 -1470| -3030 500[ -3030 512 -3021 521| -3000 530| 3970 530| 3970 1000[ 3970 1012 3979 1021[ 3988 1030 4000 1030| 4970 1030| 4970 1970| 4000 1970[ 3988 1970 3979 1979[ 3970 1988 3970 2000| 3970 2470| -4970 2470| -4970 -1470| -4500 -1470[ -4488 -1470 -4479 -1479[ -4470 -1488 -4470 -1500| -4470 -2470| -3530 -2470"/>
+                                                  <Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 5970 4470| -5970 4470| -5970 -4470| 5970 -4470| 5970 4470"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

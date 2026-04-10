@@ -1,0 +1,2729 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 56" itemID="69d5d180-00000039" lastModified="1775619668">
+     <timeline>
+          <DOMTimeline name="Symbol 56">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#49f6e9">
+                         <frames>
+                              <DOMFrame index="0" duration="95" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="95" keyMode="9728">
+                                   <Actionscript>
+                                        <script>_root.gotoAndStop("menu fade");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#d17092">
+                         <frames>
+                              <DOMFrame index="0" duration="40" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="40" duration="40" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="80" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#38e09f">
+                         <frames>
+                              <DOMFrame index="0" duration="22" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="22" duration="58" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 49" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="-69.8" ty="-63.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>on(release){
+   getURL("http://www.armorgames.com", "blank");
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="80" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#b3af88">
+                         <frames>
+                              <DOMFrame index="0" duration="40" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="40" duration="25" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="65" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="0" blurY="0" color="#000000" inner="true" quality="1" strength="0"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="66" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="7.14263916015625" blurY="7.14263916015625" color="#242424" inner="true" quality="1" strength="0.71"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="67" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="14.286041259765625" blurY="14.286041259765625" color="#484848" inner="true" quality="1" strength="1.42"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="68" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="21.428680419921875" blurY="21.428680419921875" color="#6d6d6d" inner="true" quality="1" strength="2.14"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="69" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="28.571319580078125" blurY="28.571319580078125" color="#919191" inner="true" quality="1" strength="2.85"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="70" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="35.713958740234375" blurY="35.713958740234375" color="#b6b6b6" inner="true" quality="1" strength="3.57"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="71" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="42.85736083984375" blurY="42.85736083984375" color="#dadada" inner="true" quality="1" strength="4.28"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="72" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="50" blurY="50" color="#ffffff" inner="true" quality="1" strength="5"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="73" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="57.14263916015625" blurY="57.14263916015625" color="#dbdbdb" inner="true" quality="1" strength="5.71"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="74" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="64.28604125976562" blurY="64.28604125976562" color="#b7b7b7" inner="true" quality="1" strength="6.42"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="75" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="71.42868041992188" blurY="71.42868041992188" color="#929292" inner="true" quality="1" strength="7.14"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="76" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="78.57131958007812" blurY="78.57131958007812" color="#6e6e6e" inner="true" quality="1" strength="7.85"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="77" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="85.71395874023438" blurY="85.71395874023438" color="#494949" inner="true" quality="1" strength="8.57"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="78" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="92.85736083984375" blurY="92.85736083984375" color="#252525" inner="true" quality="1" strength="9.28"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="79" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 53" centerPoint3DX="44.2" centerPoint3DY="72.65">
+                                             <matrix>
+                                                  <Matrix tx="-77.7" ty="70.15" a="0.9835968017578125" d="1.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="100" blurY="100" color="#000000" inner="true" quality="1" strength="10"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="80" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#894dbe">
+                         <frames>
+                              <DOMFrame index="0" duration="31" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="0" blurY="0" color="#ffffff" knockout="true" quality="1" strength="0.94"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="32" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="11.1114501953125" blurY="5.666839599609375" color="#ffffff" knockout="true" quality="1" strength="1.13"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="33" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="22.222900390625" blurY="11.33367919921875" color="#ffffff" knockout="true" quality="1" strength="1.33"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="34" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="33.33282470703125" blurY="16.999740600585938" color="#ffffff" knockout="true" quality="1" strength="1.52"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="35" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="44.44427490234375" blurY="22.666580200195312" color="#ffffff" knockout="true" quality="1" strength="1.72"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="36" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="55.55572509765625" blurY="28.333419799804688" color="#ffffff" knockout="true" quality="1" strength="1.91"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="37" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="66.66717529296875" blurY="34.00025939941406" color="#ffffff" knockout="true" quality="1" strength="2.11"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="38" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="77.777099609375" blurY="39.66632080078125" color="#ffffff" knockout="true" quality="1" strength="2.3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="39" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="88.8885498046875" blurY="45.333160400390625" color="#ffffff" knockout="true" quality="1" strength="2.5"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="40" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="100" blurY="51" color="#ffffff" knockout="true" quality="1" strength="2.7"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="41" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="89.44412231445312" blurY="45.88873291015625" color="#ffffff" knockout="true" quality="1" strength="2.51"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="42" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="78.88824462890625" blurY="40.7774658203125" color="#ffffff" knockout="true" quality="1" strength="2.32"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="43" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="68.33381652832031" blurY="35.666900634765625" color="#ffffff" knockout="true" quality="1" strength="2.13"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="44" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="57.77793884277344" blurY="30.555633544921875" color="#ffffff" knockout="true" quality="1" strength="1.94"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="45" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="47.22206115722656" blurY="25.444366455078125" color="#ffffff" knockout="true" quality="1" strength="1.75"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="46" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="36.66618347167969" blurY="20.333099365234375" color="#ffffff" knockout="true" quality="1" strength="1.56"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="47" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="26.11175537109375" blurY="15.2225341796875" color="#ffffff" knockout="true" quality="1" strength="1.37"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="48" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="15.555877685546875" blurY="10.11126708984375" color="#ffffff" knockout="true" quality="1" strength="1.18"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="49" duration="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="66" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.9296875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="11.785507202148438" blurY="11.785507202148438" color="#ffffff" quality="1" strength="1.47"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="67" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.85546875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="18.571731567382812" blurY="18.571731567382812" color="#ffffff" quality="1" strength="1.94"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="68" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.78515625"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="25.35723876953125" blurY="25.35723876953125" color="#ffffff" quality="1" strength="2.41"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="69" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.71484375"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="32.14274597167969" blurY="32.14274597167969" color="#ffffff" quality="2" strength="2.88"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="70" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.64453125"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="38.928253173828125" blurY="38.928253173828125" color="#ffffff" quality="2" strength="3.35"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="71" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5703125"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="45.71449279785156" blurY="45.71449279785156" color="#ffffff" quality="2" strength="3.82"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="72" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="52.5" blurY="52.5" color="#ffffff" quality="3" strength="4.3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="73" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.4296875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="59.28550720214844" blurY="59.28550720214844" color="#dbdbdb" quality="2" strength="5.11"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="74" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.35546875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="66.07173156738281" blurY="66.07173156738281" color="#b7b7b7" quality="2" strength="5.92"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="75" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.28515625"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="72.85723876953125" blurY="72.85723876953125" color="#929292" quality="2" strength="6.74"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="76" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.21484375"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="79.64274597167969" blurY="79.64274597167969" color="#6e6e6e" quality="1" strength="7.55"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="77" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.14453125"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="86.42825317382812" blurY="86.42825317382812" color="#494949" quality="1" strength="8.37"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="78" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0703125"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="93.21449279785156" blurY="93.21449279785156" color="#252525" quality="1" strength="9.18"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="79" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="100" blurY="100" color="#000000" inner="true" quality="1" strength="10"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="80" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#eae212">
+                         <frames>
+                              <DOMFrame index="0" duration="40" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="40" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.0"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="41" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.109375"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="42" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.22265625"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="43" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.33203125"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="44" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.4453125"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="45" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.5546875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="46" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.66796875"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="47" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.77734375"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="48" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color alphaMultiplier="0.890625"/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="49" duration="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="66" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="11.785507202148438" blurY="11.785507202148438" color="#ededed" quality="1" strength="1.64"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="67" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="18.571731567382812" blurY="18.571731567382812" color="#dbdbdb" quality="1" strength="2.28"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="68" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="25.35723876953125" blurY="25.35723876953125" color="#c9c9c9" quality="1" strength="2.92"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="69" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="32.14274597167969" blurY="32.14274597167969" color="#b7b7b7" quality="1" strength="3.57"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="70" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="38.928253173828125" blurY="38.928253173828125" color="#a5a5a5" quality="1" strength="4.21"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="71" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="45.71449279785156" blurY="45.71449279785156" color="#939393" quality="1" strength="4.85"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="72" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="52.5" blurY="52.5" color="#808080" quality="1" strength="5.5"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="73" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="59.28550720214844" blurY="59.28550720214844" color="#6e6e6e" quality="1" strength="6.14"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="74" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="66.07173156738281" blurY="66.07173156738281" color="#5c5c5c" quality="1" strength="6.78"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="75" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="72.85723876953125" blurY="72.85723876953125" color="#4a4a4a" quality="1" strength="7.42"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="76" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="79.64274597167969" blurY="79.64274597167969" color="#373737" quality="1" strength="8.07"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="77" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="86.42825317382812" blurY="86.42825317382812" color="#252525" quality="1" strength="8.71"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="78" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="93.21449279785156" blurY="93.21449279785156" color="#131313" quality="1" strength="9.35"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="79" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" centerPoint3DX="41.45" centerPoint3DY="50.35">
+                                             <matrix>
+                                                  <Matrix tx="-78.0" ty="30.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <color>
+                                                  <Color/>
+                                             </color>
+                                             <filters>
+                                                  <GlowFilter blurX="100" blurY="100" color="#000000" inner="true" quality="1" strength="10"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="80" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 7" color="#3ca1fe">
+                         <frames>
+                              <DOMFrame index="0" duration="10" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="100" blurY="100" color="#000000" inner="true" quality="1" strength="10"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="92.30804443359375" blurY="92.30804443359375" color="#000000" inner="true" quality="1" strength="9.23"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="84.6160888671875" blurY="84.6160888671875" color="#000000" inner="true" quality="1" strength="8.46"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="76.922607421875" blurY="76.922607421875" color="#000000" inner="true" quality="1" strength="7.69"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="69.23065185546875" blurY="69.23065185546875" color="#000000" inner="true" quality="1" strength="6.92"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="61.5386962890625" blurY="61.5386962890625" color="#000000" inner="true" quality="1" strength="6.15"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="53.84674072265625" blurY="53.84674072265625" color="#000000" inner="true" quality="1" strength="5.38"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="46.15325927734375" blurY="46.15325927734375" color="#000000" inner="true" quality="1" strength="4.61"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="38.4613037109375" blurY="38.4613037109375" color="#000000" inner="true" quality="1" strength="3.84"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="30.76934814453125" blurY="30.76934814453125" color="#000000" inner="true" quality="1" strength="3.07"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="23.077392578125" blurY="23.077392578125" color="#000000" inner="true" quality="1" strength="2.3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="21" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="15.3839111328125" blurY="15.3839111328125" color="#000000" inner="true" quality="1" strength="1.53"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="22" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="7.69195556640625" blurY="7.69195556640625" color="#000000" inner="true" quality="1" strength="0.76"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="23" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="0" blurY="0" color="#000000" quality="1" strength="0"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="24" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="23.35" centerPoint3DY="29.95">
+                                             <matrix>
+                                                  <Matrix tx="-9.8" ty="-6.65" a="1.449676513671875" d="1.449676513671875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5.375" blurY="6.125" color="#1f1f1f" quality="1" strength="0.28"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="25" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="19.55" centerPoint3DY="25.85">
+                                             <matrix>
+                                                  <Matrix tx="-13.6" ty="-10.75" a="1.5624542236328125" d="1.5624542236328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="10.75" blurY="12.25" color="#3f3f3f" quality="1" strength="0.57"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="26" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="15.85" centerPoint3DY="21.7">
+                                             <matrix>
+                                                  <Matrix tx="-17.3" ty="-14.9" a="1.6752471923828125" d="1.6752471923828125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="16.125" blurY="18.375" color="#5f5f5f" quality="1" strength="0.86"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="27" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="12.1" centerPoint3DY="17.55">
+                                             <matrix>
+                                                  <Matrix tx="-21.05" ty="-19.05" a="1.7880401611328125" d="1.7880401611328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="21.5" blurY="24.5" color="#7f7f7f" quality="1" strength="1.15"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="28" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="8.4" centerPoint3DY="13.45">
+                                             <matrix>
+                                                  <Matrix tx="-24.75" ty="-23.15" a="1.9008026123046875" d="1.9008026123046875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="26.875" blurY="30.625" color="#9f9f9f" quality="1" strength="1.43"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="29" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="4.6" centerPoint3DY="9.35">
+                                             <matrix>
+                                                  <Matrix tx="-28.55" ty="-27.25" a="2.0135650634765625" d="2.0135650634765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="32.25" blurY="36.75" color="#bfbfbf" quality="1" strength="1.72"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="30" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="0.9" centerPoint3DY="5.15">
+                                             <matrix>
+                                                  <Matrix tx="-32.25" ty="-31.45" a="2.1263580322265625" d="2.1263580322265625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="37.625" blurY="42.875" color="#dfdfdf" quality="1" strength="2.01"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="31" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="-2.85" centerPoint3DY="1.1">
+                                             <matrix>
+                                                  <Matrix tx="-36.0" ty="-35.5" a="2.2391510009765625" d="2.2391510009765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="43" blurY="49" color="#ffffff" quality="1" strength="2.3"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="32" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="0.4" centerPoint3DY="4.75">
+                                             <matrix>
+                                                  <Matrix tx="-32.75" ty="-31.85" a="2.1388702392578125" d="2.1388702392578125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="41.111053466796875" blurY="46.888824462890625" color="#ffffff" quality="1" strength="2.09"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="33" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="3.75" centerPoint3DY="8.45">
+                                             <matrix>
+                                                  <Matrix tx="-29.4" ty="-28.15" a="2.0386199951171875" d="2.0386199951171875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="39.22210693359375" blurY="44.77764892578125" color="#ffffff" quality="1" strength="1.89"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="34" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="7.1" centerPoint3DY="12.1">
+                                             <matrix>
+                                                  <Matrix tx="-26.05" ty="-24.5" a="1.93841552734375" d="1.93841552734375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="37.33341979980469" blurY="42.66676330566406" color="#ffffff" quality="1" strength="1.69"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="35" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="10.4" centerPoint3DY="15.75">
+                                             <matrix>
+                                                  <Matrix tx="-22.75" ty="-20.85" a="1.838134765625" d="1.838134765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="35.44447326660156" blurY="40.55558776855469" color="#ffffff" quality="1" strength="1.49"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="36" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="13.75" centerPoint3DY="19.45">
+                                             <matrix>
+                                                  <Matrix tx="-19.4" ty="-17.15" a="1.737884521484375" d="1.737884521484375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="33.55552673339844" blurY="38.44441223144531" color="#ffffff" quality="1" strength="1.28"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="37" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="17.05" centerPoint3DY="23.1">
+                                             <matrix>
+                                                  <Matrix tx="-16.1" ty="-13.5" a="1.6376495361328125" d="1.6376495361328125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="31.666580200195312" blurY="36.33323669433594" color="#ffffff" quality="1" strength="1.08"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="38" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="20.4" centerPoint3DY="26.8">
+                                             <matrix>
+                                                  <Matrix tx="-12.75" ty="-9.8" a="1.5373992919921875" d="1.5373992919921875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="29.77789306640625" blurY="34.22235107421875" color="#ffffff" quality="1" strength="0.88"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="39" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="23.7" centerPoint3DY="30.45">
+                                             <matrix>
+                                                  <Matrix tx="-9.45" ty="-6.15" a="1.4371490478515625" d="1.4371490478515625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="27.888946533203125" blurY="32.111175537109375" color="#ffffff" quality="1" strength="0.68"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="40" duration="26" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="26" blurY="30" color="#ffffff" quality="1" strength="0.48"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="66" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="31.285552978515625" blurY="34.999847412109375" color="#ffffff" quality="1" strength="1.15"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="67" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="36.57167053222656" blurY="40.00022888183594" color="#ffffff" quality="1" strength="1.84"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="68" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="41.85722351074219" blurY="45.00007629394531" color="#ffffff" quality="1" strength="2.52"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="69" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="47.14277648925781" blurY="49.99992370605469" color="#ffffff" quality="1" strength="3.19"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="70" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="52.42832946777344" blurY="54.99977111816406" color="#ffffff" quality="1" strength="3.87"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="71" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="57.714447021484375" blurY="60.000152587890625" color="#ffffff" quality="1" strength="4.56"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="72" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="63" blurY="65" color="#ffffff" quality="1" strength="5.24"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="73" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="68.28555297851562" blurY="69.99984741210938" color="#dbdbdb" quality="1" strength="5.91"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="74" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="73.57167053222656" blurY="75.00022888183594" color="#b7b7b7" quality="1" strength="6.6"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="75" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="78.85722351074219" blurY="80.00007629394531" color="#929292" quality="1" strength="7.28"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="76" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="84.14277648925781" blurY="84.99992370605469" color="#6e6e6e" quality="1" strength="7.95"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="77" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="89.42832946777344" blurY="89.99977111816406" color="#494949" quality="1" strength="8.63"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="78" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="94.71444702148438" blurY="95.00015258789062" color="#252525" quality="1" strength="9.32"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="79" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 48" centerPoint3DX="27.05" centerPoint3DY="34.1">
+                                             <matrix>
+                                                  <Matrix tx="-6.1" ty="-2.5" a="1.3369140625" d="1.3369140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="100" blurY="100" color="#000000" inner="true" quality="1" strength="10"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="80" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 8" color="#e9c4a0">
+                         <frames>
+                              <DOMFrame index="0" duration="51" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="51" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-30.6" centerPoint3DY="109.95">
+                                             <matrix>
+                                                  <Matrix tx="-42.65" ty="71.5" a="-0.070953369140625" d="-0.070953369140625" b="-1.333740234375" c="1.333740234375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="52" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-33.45" centerPoint3DY="98.3">
+                                             <matrix>
+                                                  <Matrix tx="-45.5" ty="59.85" a="0.1458587646484375" d="0.1458587646484375" b="-1.327178955078125" c="1.327178955078125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="53" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-34.45" centerPoint3DY="86.4">
+                                             <matrix>
+                                                  <Matrix tx="-46.5" ty="47.95" a="0.358062744140625" d="0.358062744140625" b="-1.2855682373046875" c="1.2855682373046875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="54" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-33.5" centerPoint3DY="74.25">
+                                             <matrix>
+                                                  <Matrix tx="-45.55" ty="35.8" a="0.56488037109375" d="0.56488037109375" b="-1.2084503173828125" c="1.2084503173828125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="55" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-30.55" centerPoint3DY="62.65">
+                                             <matrix>
+                                                  <Matrix tx="-42.6" ty="24.2" a="0.7526702880859375" d="0.7526702880859375" b="-1.100860595703125" c="1.100860595703125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="56" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-25.7" centerPoint3DY="51.35">
+                                             <matrix>
+                                                  <Matrix tx="-37.75" ty="12.9" a="0.923919677734375" d="0.923919677734375" b="-0.961456298828125" c="0.961456298828125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="57" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-19.25" centerPoint3DY="41.35">
+                                             <matrix>
+                                                  <Matrix tx="-31.3" ty="2.9" a="1.0673675537109375" d="1.0673675537109375" b="-0.799346923828125" c="0.799346923828125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="58" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-11.1" centerPoint3DY="32.3">
+                                             <matrix>
+                                                  <Matrix tx="-23.15" ty="-6.15" a="1.184906005859375" d="1.184906005859375" b="-0.6124420166015625" c="0.6124420166015625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="59" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.9" centerPoint3DY="24.8">
+                                             <matrix>
+                                                  <Matrix tx="-13.95" ty="-13.65" a="1.269927978515625" d="1.269927978515625" b="-0.4137420654296875" c="0.4137420654296875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="66" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.9" centerPoint3DY="24.9">
+                                             <matrix>
+                                                  <Matrix tx="-13.95" ty="-13.55" a="1.26861572265625" d="1.26861572265625" b="-0.412933349609375" c="0.412933349609375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="11.785507202148438" blurY="11.785507202148438" color="#ffffff" quality="1" strength="1.64"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="67" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.9" centerPoint3DY="24.9">
+                                             <matrix>
+                                                  <Matrix tx="-13.95" ty="-13.55" a="1.2684173583984375" d="1.2684173583984375" b="-0.412841796875" c="0.412841796875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="18.571731567382812" blurY="18.571731567382812" color="#ffffff" quality="1" strength="2.28"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="68" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.9" centerPoint3DY="24.9">
+                                             <matrix>
+                                                  <Matrix tx="-13.95" ty="-13.55" a="1.2682647705078125" d="1.2682647705078125" b="-0.41278076171875" c="0.41278076171875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="25.35723876953125" blurY="25.35723876953125" color="#ffffff" quality="1" strength="2.92"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="69" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.95" centerPoint3DY="24.95">
+                                             <matrix>
+                                                  <Matrix tx="-14.0" ty="-13.5" a="1.26806640625" d="1.26806640625" b="-0.4127197265625" c="0.4127197265625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="32.14274597167969" blurY="32.14274597167969" color="#ffffff" quality="1" strength="3.57"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="70" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.95" centerPoint3DY="25.0">
+                                             <matrix>
+                                                  <Matrix tx="-14.0" ty="-13.45" a="1.267913818359375" d="1.267913818359375" b="-0.4126129150390625" c="0.4126129150390625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="38.928253173828125" blurY="38.928253173828125" color="#ffffff" quality="1" strength="4.21"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="71" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.9" centerPoint3DY="25.0">
+                                             <matrix>
+                                                  <Matrix tx="-13.95" ty="-13.45" a="1.2677459716796875" d="1.2677459716796875" b="-0.412567138671875" c="0.412567138671875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="45.71449279785156" blurY="45.71449279785156" color="#ffffff" quality="1" strength="4.85"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="72" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.9" centerPoint3DY="24.9">
+                                             <matrix>
+                                                  <Matrix tx="-13.95" ty="-13.55" a="1.268768310546875" d="1.268768310546875" b="-0.4129791259765625" c="0.4129791259765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="52.5" blurY="52.5" color="#ffffff" quality="1" strength="5.5"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="73" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.85" centerPoint3DY="24.9">
+                                             <matrix>
+                                                  <Matrix tx="-13.9" ty="-13.55" a="1.2677459716796875" d="1.2677459716796875" b="-0.412567138671875" c="0.412567138671875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="59.28550720214844" blurY="59.28550720214844" color="#dbdbdb" quality="1" strength="6.14"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="74" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.85" centerPoint3DY="24.9">
+                                             <matrix>
+                                                  <Matrix tx="-13.9" ty="-13.55" a="1.2679290771484375" d="1.2679290771484375" b="-0.4126129150390625" c="0.4126129150390625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="66.07173156738281" blurY="66.07173156738281" color="#b7b7b7" quality="1" strength="6.78"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="75" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.85" centerPoint3DY="24.9">
+                                             <matrix>
+                                                  <Matrix tx="-13.9" ty="-13.55" a="1.2680816650390625" d="1.2680816650390625" b="-0.412689208984375" c="0.412689208984375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="72.85723876953125" blurY="72.85723876953125" color="#929292" quality="1" strength="7.42"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="76" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.8" centerPoint3DY="24.85">
+                                             <matrix>
+                                                  <Matrix tx="-13.85" ty="-13.6" a="1.2682647705078125" d="1.2682647705078125" b="-0.412750244140625" c="0.412750244140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="79.64274597167969" blurY="79.64274597167969" color="#6e6e6e" quality="1" strength="8.07"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="77" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.8" centerPoint3DY="24.8">
+                                             <matrix>
+                                                  <Matrix tx="-13.85" ty="-13.65" a="1.2684326171875" d="1.2684326171875" b="-0.4128570556640625" c="0.4128570556640625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="86.42825317382812" blurY="86.42825317382812" color="#494949" quality="1" strength="8.71"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="78" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.8" centerPoint3DY="24.8">
+                                             <matrix>
+                                                  <Matrix tx="-13.85" ty="-13.65" a="1.26861572265625" d="1.26861572265625" b="-0.4129180908203125" c="0.4129180908203125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="93.21449279785156" blurY="93.21449279785156" color="#252525" quality="1" strength="9.35"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="79" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="-1.9" centerPoint3DY="24.8">
+                                             <matrix>
+                                                  <Matrix tx="-13.95" ty="-13.65" a="1.269927978515625" d="1.269927978515625" b="-0.4137420654296875" c="0.4137420654296875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="100" blurY="100" color="#000000" inner="true" quality="1" strength="10"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="80" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 9" color="#8dbfcb">
+                         <frames>
+                              <DOMFrame index="0" duration="51" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="51" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="139.6" centerPoint3DY="69.15">
+                                             <matrix>
+                                                  <Matrix tx="127.55" ty="30.7" a="-0.0699005126953125" d="-0.0699005126953125" b="1.333740234375" c="-1.333740234375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="52" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="134.95" centerPoint3DY="57.75">
+                                             <matrix>
+                                                  <Matrix tx="122.9" ty="19.3" a="0.1461181640625" d="0.1461181640625" b="1.32708740234375" c="-1.32708740234375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="53" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="128.5" centerPoint3DY="47.05">
+                                             <matrix>
+                                                  <Matrix tx="116.45" ty="8.6" a="0.3583221435546875" d="0.3583221435546875" b="1.2854156494140625" c="-1.2854156494140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="54" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="120.3" centerPoint3DY="37.15">
+                                             <matrix>
+                                                  <Matrix tx="108.25" ty="-1.3" a="0.565093994140625" d="0.565093994140625" b="1.2082977294921875" c="-1.2082977294921875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="55" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="110.8" centerPoint3DY="28.85">
+                                             <matrix>
+                                                  <Matrix tx="98.75" ty="-9.6" a="0.75286865234375" d="0.75286865234375" b="1.1006622314453125" c="-1.1006622314453125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="56" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="99.8" centerPoint3DY="21.8">
+                                             <matrix>
+                                                  <Matrix tx="87.75" ty="-16.65" a="0.924102783203125" d="0.924102783203125" b="0.9612274169921875" c="-0.9612274169921875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="57" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="87.95" centerPoint3DY="16.7">
+                                             <matrix>
+                                                  <Matrix tx="75.9" ty="-21.75" a="1.0675048828125" d="1.0675048828125" b="0.7990875244140625" c="-0.7990875244140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="58" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="75.3" centerPoint3DY="13.25">
+                                             <matrix>
+                                                  <Matrix tx="63.25" ty="-25.2" a="1.1849822998046875" d="1.1849822998046875" b="0.6121673583984375" c="-0.6121673583984375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="59" duration="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.45" centerPoint3DY="11.75">
+                                             <matrix>
+                                                  <Matrix tx="50.4" ty="-26.7" a="1.2701873779296875" d="1.2701873779296875" b="0.4127197265625" c="-0.4127197265625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="5" blurY="5" color="#ffffff" quality="1" strength="1"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="66" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.5" centerPoint3DY="11.85">
+                                             <matrix>
+                                                  <Matrix tx="50.45" ty="-26.6" a="1.26861572265625" d="1.26861572265625" b="0.412689208984375" c="-0.412689208984375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="11.785507202148438" blurY="11.785507202148438" color="#ffffff" quality="1" strength="1.64"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="67" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.5" centerPoint3DY="11.85">
+                                             <matrix>
+                                                  <Matrix tx="50.45" ty="-26.6" a="1.2684478759765625" d="1.2684478759765625" b="0.4126434326171875" c="-0.4126434326171875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="18.571731567382812" blurY="18.571731567382812" color="#ffffff" quality="1" strength="2.28"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="68" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.5" centerPoint3DY="11.85">
+                                             <matrix>
+                                                  <Matrix tx="50.45" ty="-26.6" a="1.2682647705078125" d="1.2682647705078125" b="0.41259765625" c="-0.41259765625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="25.35723876953125" blurY="25.35723876953125" color="#ffffff" quality="1" strength="2.92"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="69" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.5" centerPoint3DY="11.85">
+                                             <matrix>
+                                                  <Matrix tx="50.45" ty="-26.6" a="1.2681121826171875" d="1.2681121826171875" b="0.4125518798828125" c="-0.4125518798828125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="32.14274597167969" blurY="32.14274597167969" color="#ffffff" quality="1" strength="3.57"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="70" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.5" centerPoint3DY="11.85">
+                                             <matrix>
+                                                  <Matrix tx="50.45" ty="-26.6" a="1.267913818359375" d="1.267913818359375" b="0.41253662109375" c="-0.41253662109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="38.928253173828125" blurY="38.928253173828125" color="#ffffff" quality="1" strength="4.21"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="71" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.55" centerPoint3DY="11.85">
+                                             <matrix>
+                                                  <Matrix tx="50.5" ty="-26.6" a="1.267730712890625" d="1.267730712890625" b="0.4124603271484375" c="-0.4124603271484375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="45.71449279785156" blurY="45.71449279785156" color="#ffffff" quality="1" strength="4.85"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="72" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.5" centerPoint3DY="11.85">
+                                             <matrix>
+                                                  <Matrix tx="50.45" ty="-26.6" a="1.2688140869140625" d="1.2688140869140625" b="0.412750244140625" c="-0.412750244140625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="52.5" blurY="52.5" color="#ffffff" quality="1" strength="5.5"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="73" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.55" centerPoint3DY="11.9">
+                                             <matrix>
+                                                  <Matrix tx="50.5" ty="-26.55" a="1.267730712890625" d="1.267730712890625" b="0.4124603271484375" c="-0.4124603271484375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="59.28550720214844" blurY="59.28550720214844" color="#dbdbdb" quality="1" strength="6.14"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="74" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.55" centerPoint3DY="11.9">
+                                             <matrix>
+                                                  <Matrix tx="50.5" ty="-26.55" a="1.267913818359375" d="1.267913818359375" b="0.4125213623046875" c="-0.4125213623046875"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="66.07173156738281" blurY="66.07173156738281" color="#b7b7b7" quality="1" strength="6.78"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="75" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.55" centerPoint3DY="11.9">
+                                             <matrix>
+                                                  <Matrix tx="50.5" ty="-26.55" a="1.268096923828125" d="1.268096923828125" b="0.41253662109375" c="-0.41253662109375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="72.85723876953125" blurY="72.85723876953125" color="#929292" quality="1" strength="7.42"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="76" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.55" centerPoint3DY="11.9">
+                                             <matrix>
+                                                  <Matrix tx="50.5" ty="-26.55" a="1.2682647705078125" d="1.2682647705078125" b="0.4125823974609375" c="-0.4125823974609375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="79.64274597167969" blurY="79.64274597167969" color="#6e6e6e" quality="1" strength="8.07"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="77" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.55" centerPoint3DY="11.9">
+                                             <matrix>
+                                                  <Matrix tx="50.5" ty="-26.55" a="1.2684478759765625" d="1.2684478759765625" b="0.412628173828125" c="-0.412628173828125"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="86.42825317382812" blurY="86.42825317382812" color="#494949" quality="1" strength="8.71"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="78" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.55" centerPoint3DY="11.9">
+                                             <matrix>
+                                                  <Matrix tx="50.5" ty="-26.55" a="1.26861572265625" d="1.26861572265625" b="0.412689208984375" c="-0.412689208984375"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="93.21449279785156" blurY="93.21449279785156" color="#252525" quality="1" strength="9.35"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="79" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 55" centerPoint3DX="62.45" centerPoint3DY="11.75">
+                                             <matrix>
+                                                  <Matrix tx="50.4" ty="-26.7" a="1.2701873779296875" d="1.2701873779296875" b="0.4127197265625" c="-0.4127197265625"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <filters>
+                                                  <GlowFilter blurX="100" blurY="100" color="#000000" inner="true" quality="1" strength="10"/>
+                                             </filters>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="80" duration="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 10" color="#86728d" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="96" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 1" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="62.4" ty="127.3" a="5.033050537109375" d="8.126998901367188"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 0" color="#3abdc0">
+                         <frames>
+                              <DOMFrame index="0" duration="96" keyMode="9728" soundName="sound56_1-96.wav" soundSync="stream">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

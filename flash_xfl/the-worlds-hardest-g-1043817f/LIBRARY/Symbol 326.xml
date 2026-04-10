@@ -1,0 +1,203 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 326" itemID="69d5d180-000000d4" lastModified="1775619668">
+     <timeline>
+          <DOMTimeline name="Symbol 326">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#fb7f70" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="19" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="19" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-151.65" antiAliasSharpness="0" antiAliasThickness="0" width="4617" height="579" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-24.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>IT GETS HARDER NOW.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="20" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-163.3" antiAliasSharpness="0" antiAliasThickness="0" width="4878" height="579" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-24.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>YOU'VE ALREADY LOST.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="21" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-69.95" antiAliasSharpness="0" antiAliasThickness="0" width="2986" height="579" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-24.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>DON'T CHOKE!</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="22" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-168.05" antiAliasSharpness="0" antiAliasThickness="0" width="4973" height="579" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-24.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>AROUND AND AROUND...</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="23" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-180.75" antiAliasSharpness="0" antiAliasThickness="0" width="5200" height="1606" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-50.35"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>THIS ONE ISN'T HARD</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="40" lineSpacing="-3" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>&#13;IF YOU KNOW THE TRICK.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="-3" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="24" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-159.45" antiAliasSharpness="0" antiAliasThickness="0" width="4786" height="1606" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-50.35"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>YOU'RE PROBABLY</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="45" lineSpacing="-3" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>&#13;GETTING FRUSTRATED.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="-3" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="25" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-167.2" antiAliasSharpness="0" antiAliasThickness="0" width="4932" height="1606" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-50.35"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>SHOULDN'T EVEN TAKE</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="7" lineSpacing="-3" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>&#13;MORE THAN 2 DEATHS...</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="-3" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="26" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-111.75" antiAliasSharpness="0" antiAliasThickness="0" width="3822" height="579" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-24.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>NOT HARD AT ALL.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="27" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-180.8" antiAliasSharpness="0" antiAliasThickness="0" width="5203" height="579" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-24.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>BABY WANT HIS BOTTLE?</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="28" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-111.75" antiAliasSharpness="0" antiAliasThickness="0" width="3823" height="579" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-24.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>MIGHT BE TRICKY.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

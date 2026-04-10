@@ -1,0 +1,96 @@
+{
+  "level_num": 8,
+  "frame_index": 88,
+  "gameplay_frame_index": 89,
+  "resolution": {
+    "width": 550,
+    "height": 400
+  },
+  "player_size": {
+    "w": 18,
+    "h": 18
+  },
+  "player_speed": 3.0,
+  "spawn": {
+    "x": 162.5,
+    "y": 112.5
+  },
+  "checkpoint_order": [
+    "check1"
+  ],
+  "win_check": "check2",
+  "check_regions": {
+    "check2": {
+      "x0": 375.0,
+      "y0": 175.0,
+      "x1": 424.0,
+      "y1": 224.0,
+      "cx": 400.0,
+      "cy": 200.0
+    },
+    "check1": {
+      "x0": 150.0,
+      "y0": 100.0,
+      "x1": 174.0,
+      "y1": 124.0,
+      "cx": 162.5,
+      "cy": 112.5
+    }
+  },
+  "coins_required": 3,
+  "coin_positions": [
+    [
+      137.0,
+      313.0
+    ],
+    [
+      362.0,
+      313.0
+    ],
+    [
+      362.0,
+      88.0
+    ]
+  ],
+  "enemy_tracks": [
+    [
+      [
+        [
+          137.5,
+          87.5
+        ],
+        [
+          361.5,
+          87.5
+        ],
+        [
+          213.0,
+          112.5
+        ],
+        [
+          137.5,
+          162.5
+        ],
+        [
+          361.5,
+          162.5
+        ],
+        [
+          137.5,
+          236.5
+        ],
+        [
+          361.5,
+          236.5
+        ]
+      ]
+    ]
+  ],
+  "enemy_symbols": [
+    233
+  ],
+  "walls_symbols": [
+    230
+  ],
+  "walkable_mask": "level_08_walkable.npz"
+}

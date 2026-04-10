@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 4" itemID="69d5d180-0000000d" lastModified="1775619668">
+     <timeline>
+          <DOMTimeline name="Symbol 4">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#b93cfd" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="bitmap" width="2230" height="700" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-111.0" ty="-17.0"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>This is The World's Hardest Game.  I guarantee you </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="10.1" bitmapSize="202" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="1" rightMargin="0" fillColor="#ffffff" face="ArialMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>&#13;it is harder than any game you have ever played, or </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="10.1" bitmapSize="202" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="1" rightMargin="0" fillColor="#ffffff" face="ArialMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>&#13;ever will play.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="10.1" bitmapSize="202" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="1" rightMargin="0" fillColor="#ffffff" face="ArialMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

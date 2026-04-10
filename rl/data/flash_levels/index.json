@@ -1,0 +1,124 @@
+{
+  "levels": [
+    {
+      "level_num": 1,
+      "file": "level_01.json"
+    },
+    {
+      "level_num": 2,
+      "file": "level_02.json"
+    },
+    {
+      "level_num": 3,
+      "file": "level_03.json"
+    },
+    {
+      "level_num": 4,
+      "file": "level_04.json"
+    },
+    {
+      "level_num": 5,
+      "file": "level_05.json"
+    },
+    {
+      "level_num": 6,
+      "file": "level_06.json"
+    },
+    {
+      "level_num": 7,
+      "file": "level_07.json"
+    },
+    {
+      "level_num": 8,
+      "file": "level_08.json"
+    },
+    {
+      "level_num": 9,
+      "file": "level_09.json"
+    },
+    {
+      "level_num": 10,
+      "file": "level_10.json"
+    },
+    {
+      "level_num": 11,
+      "file": "level_11.json"
+    },
+    {
+      "level_num": 12,
+      "file": "level_12.json"
+    },
+    {
+      "level_num": 13,
+      "file": "level_13.json"
+    },
+    {
+      "level_num": 14,
+      "file": "level_14.json"
+    },
+    {
+      "level_num": 15,
+      "file": "level_15.json"
+    },
+    {
+      "level_num": 16,
+      "file": "level_16.json"
+    },
+    {
+      "level_num": 17,
+      "file": "level_17.json"
+    },
+    {
+      "level_num": 18,
+      "file": "level_18.json"
+    },
+    {
+      "level_num": 19,
+      "file": "level_19.json"
+    },
+    {
+      "level_num": 20,
+      "file": "level_20.json"
+    },
+    {
+      "level_num": 21,
+      "file": "level_21.json"
+    },
+    {
+      "level_num": 22,
+      "file": "level_22.json"
+    },
+    {
+      "level_num": 23,
+      "file": "level_23.json"
+    },
+    {
+      "level_num": 24,
+      "file": "level_24.json"
+    },
+    {
+      "level_num": 25,
+      "file": "level_25.json"
+    },
+    {
+      "level_num": 26,
+      "file": "level_26.json"
+    },
+    {
+      "level_num": 27,
+      "file": "level_27.json"
+    },
+    {
+      "level_num": 28,
+      "file": "level_28.json"
+    },
+    {
+      "level_num": 29,
+      "file": "level_29.json"
+    },
+    {
+      "level_num": 30,
+      "file": "level_30.json"
+    }
+  ]
+}

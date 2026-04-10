@@ -5,3 +5,14 @@ __pycache__/
 # Local virtual environments
 .venv/
 venv/
+
+# RL generated artifacts (keep curated demos/manifests only)
+rl/models/*.gif
+rl/models/*.json
+!rl/models/strict_timeout_levels1_30_flashmove_v3_preview.gif
+!rl/models/strict_timeout_levels1_30_flashmove_v3_all30.gif
+!rl/models/strict_timeout_levels1_30_flashmove_v3_all30_manifest.json
+
+# Legacy root-level generated media
+rl/*.gif
+rl/*.json

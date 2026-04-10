@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 133" itemID="69d5d180-00000058" lastModified="1775619668">
+     <timeline>
+          <DOMTimeline name="Symbol 133">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#6e7ead">
+                         <frames>
+                              <DOMFrame index="0" duration="43" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="43" keyMode="9728">
+                                   <Actionscript>
+                                        <script>_root.gotoAndStop("L1");
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#88e458">
+                         <frames>
+                              <DOMFrame index="0" duration="44" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText left="-168.1" antiAliasSharpness="0" antiAliasThickness="0" width="4975" height="1606" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-72.0" ty="-50.35"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>YOU DON'T KNOW WHAT</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="0" lineSpacing="-3" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>&#13;YOU'RE GETTING INTO.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" size="37.05" bitmapSize="741" letterSpacing="0" indent="0" leftMargin="12" lineSpacing="-3" rightMargin="0" fillColor="#000000" face="Arial-Black"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#f26fd3" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="44" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 58" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-275.0" ty="-200.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 0" color="#d0de02">
+                         <frames>
+                              <DOMFrame index="0" duration="44" keyMode="9728" soundName="sound132.wav">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

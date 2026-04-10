@@ -1,0 +1,82 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 154" itemID="69d5d180-00000062" lastModified="1775619668">
+     <timeline>
+          <DOMTimeline name="Symbol 154">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#8cee2c">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script>stop();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script>prevFrame();
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <Actionscript>
+                                        <script>gotoAndStop(1);
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#f66a8a" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="3" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#ff0000"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! 180 -180| -180 -180| -180 180| 180 180| 180 -180"/>
+                                                  <Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! -120 -120| 120 -120| 120 120| -120 120| -120 -120"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 0" color="#70ceb3">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="2" keyMode="9728" soundName="sound152.wav">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 1" color="#a2b5aa">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728" soundName="sound153.wav">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

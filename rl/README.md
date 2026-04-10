@@ -1,61 +1,49 @@
-# RL Module (Level 1)
+# RL Module
 
-This folder adds a deterministic, headless environment for **World's Hardest Game level 1** and a train/watch workflow.
+This folder contains the full reinforcement learning and planning stack for the strict 30-level pipeline.
 
-## What's Included
+## Main Components
 
-- `whg_env.py`: deterministic simulator extracted from the original game logic (movement, collision, dots, goals).
-- `planner.py`: A* expert planner for warm-start trajectories.
-- `train_agent.py`: tabular Q-learning trainer with expert warm-start.
-- `watch_agent.py`: animate a trained policy (and save a GIF).
-- `models/`: saved checkpoints and run artifacts.
+- `whg_full_env.py`: strict full-game environment (movement, collisions, checkpoints, coins)
+- `full_planner.py`: time-aware planner + fallback search for hard levels
+- `extract_flash_levels.py`: builds dataset from SWF/XFL export
+- `train_full_agent.py`: per-level training runner
+- `watch_full_agent.py`: rollout renderer
+- `render_strict_timeout_sweep.py`: strict batch sweep with manifest output
+- `render_strict_best_effort.py`: best-effort strict sweep runner
 
-## Why This Is RL-Friendly
+## Dataset Build
 
-- No Swing/UI dependency during training.
-- Deterministic stepping (`reset` / `step`) for reproducibility.
-- Action repeat support (`--action-repeat`) for faster learning.
-- Simple serialized model format (`.npz`) for quick reload and evaluation.
+```bash
+python3 rl/extract_flash_levels.py \
+  --xfl flash_xfl/the-worlds-hardest-g-1043817f/DOMDocument.xml \
+  --decompiled-root /Users/cole/Desktop/worldshardestgame_decompiled \
+  --out-dir rl/data/flash_levels
+```
 
-## Train
+## Strict Full Sweep
 
-From the repo root:
+```bash
+python3 rl/render_strict_timeout_sweep.py \
+  --dataset-dir rl/data/flash_levels \
+  --levels 1-30 \
+  --enemy-hit-radius 6.0 \
+  --planner-max-expand 1200000 \
+  --planner-max-segments 1200 \
+  --planner-retry-cap 4200000 \
+  --per-level-timeout-sec 720 \
+  --save rl/models/strict_timeout_levels1_30_flashmove_v3_all30.gif \
+  --manifest-out rl/models/strict_timeout_levels1_30_flashmove_v3_all30_manifest.json
+```
+
+## Legacy Level-1 Stack
+
+- `whg_env.py`
+- `planner.py`
+- `train_agent.py`
+- `watch_agent.py`
 
 ```bash
 python3 rl/train_agent.py
-```
-
-Optional faster run:
-
-```bash
-python3 rl/train_agent.py --episodes 1500 --eval-every 200
-```
-
-Model output defaults to:
-
-- `rl/models/level1_qtable.npz`
-
-## Watch
-
-Interactive window:
-
-```bash
 python3 rl/watch_agent.py --model rl/models/level1_qtable.npz
 ```
-
-Save a GIF (no GUI):
-
-```bash
-python3 rl/watch_agent.py --model rl/models/level1_qtable.npz --save rl/models/level1_run.gif --no-gui
-```
-
-Generate a faster/smaller GIF:
-
-```bash
-python3 rl/watch_agent.py --model rl/models/level1_qtable.npz --save rl/models/level1_run_fast.gif --fps 30 --frame-stride 3 --no-gui
-```
-
-## Notes
-
-- If the learned Q policy misses, `watch_agent.py` automatically falls back to the stored expert path from the same model file so you can still visualize a complete winning run.
-- The environment currently targets level 1 first, which is ideal for iteration speed and reproducibility.

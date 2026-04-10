@@ -1,0 +1,70 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 327" itemID="69d5d180-000000d5" lastModified="1775619668">
+     <timeline>
+          <DOMTimeline name="Symbol 327">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#af03e7">
+                         <frames>
+                              <DOMFrame index="0" duration="43" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="43" keyMode="9728">
+                                   <Actionscript>
+                                        <script>_root.gotoAndStop("L" + _root.currentLevel);
+</script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#e33b8c">
+                         <frames>
+                              <DOMFrame index="0" duration="44" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 326" centerPoint3DX="260.15" centerPoint3DY="40.15">
+                                             <matrix>
+                                                  <Matrix tx="0.0" ty="0.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script>onClipEvent(load){
+   this.gotoAndStop(_root.currentLevel);
+}
+</script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#b3fd2d" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="44" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 314" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="-275.0" ty="-200.0"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Sound Layer 0" color="#9347d5">
+                         <frames>
+                              <DOMFrame index="0" duration="44" keyMode="9728" soundName="sound132.wav">
+                                   <SoundEnvelope>
+                                        <SoundEnvelopePoint level0="32768" level1="32768"/>
+                                   </SoundEnvelope>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

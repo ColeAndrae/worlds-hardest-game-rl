@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 341" itemID="69d5d180-000000e0" lastModified="1775619668">
+     <timeline>
+          <DOMTimeline name="Symbol 341">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#dffefc" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#d2bcf5"/>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <SolidColor color="#000000"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! 6000 -4530| -6000 -4530[ -6012 -4530 -6021 -4521| -6030 -4500| -6030 4500| -6021 4521[ -6012 4530 -6000 4530| 6000 4530[ 6012 4530 6021 4521| 6030 4500| 6030 -4500| 6021 -4521[ 6012 -4530 6000 -4530"/>
+                                                  <Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 3500 -2030| -4500 -2030| -4521 -2021| -4530 -2000| -4530 -1000[ -4530 -988 -4521 -979[ -4512 -970 -4500 -970| -3530 -970| -3530 2000| -3521 2021[ -3512 2030 -3500 2030| 4500 2030| 4521 2021| 4530 2000| 4530 1000[ 4530 988 4521 979[ 4512 970 4500 970| 3530 970| 3530 -2000| 3521 -2021[ 3512 -2030 3500 -2030"/>
+                                                  <Edge fillStyle0="2" fillStyle1="0" strokeStyle="0" edges="! -3500 -1030| -4470 -1030| -4470 -1970| 3470 -1970| 3470 1000[ 3470 1012 3479 1021[ 3488 1030 3500 1030| 4470 1030| 4470 1970| -3470 1970| -3470 -1000[ -3470 -1012 -3479 -1021[ -3488 -1030 -3500 -1030"/>
+                                                  <Edge fillStyle0="2" fillStyle1="1" strokeStyle="0" edges="! 5970 4470| -5970 4470| -5970 -4470| 5970 -4470| 5970 4470"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>

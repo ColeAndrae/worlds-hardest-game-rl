@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 10" itemID="69d5d180-00000011" lastModified="1775619668" symbolType="graphic">
+     <timeline>
+          <DOMTimeline name="Symbol 10" currentFrame="0">
+               <layers>
+                    <DOMLayer name="Layer 1">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#ffffff"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes/>
+                                             <edges>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 17 -60| -3 -60| -3 -40| -23 -40| -23 60| -3 60| -3 80| 17 80| 17 100| 117 100| 117 80| 137 80| 137 40| 57 40| 57 0| 177 0| 177 100| 157 100| 157 120| 117 120| 117 140| 17 140| 17 120| -23 120| -23 100| -43 100| -43 60| -63 60| -63 -40| -43 -40| -43 -80| -23 -80| -23 -100| 17 -100| 17 -120| 117 -120| 117 -100| 157 -100| 157 -60| 177 -60| 177 -40| 137 -40| 137 -60| 117 -60| 117 -80| 17 -80| 17 -60"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 257 -120| 257 140| 217 140| 217 -120| 257 -120"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! 397 -80| 397 -40| 417 -40| 417 -20| 437 -20| 437 0| 457 0| 457 40| 477 40| 477 60| 497 60| 497 -120| 537 -120| 537 140| 497 140| 497 120| 477 120| 477 100| 457 100| 457 60| 437 60| 437 40| 417 40| 417 20| 397 20| 397 -20| 377 -20| 377 -40| 357 -40| 357 140| 317 140| 317 -120| 357 -120| 357 -100| 377 -100| 377 -80| 397 -80"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -503 -20| -383 -20| -383 -80| -503 -80| -503 -20"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -263 -20| -123 -20| -123 20| -263 20| -263 100| -103 100| -103 140| -303 140| -303 -120| -103 -120| -103 -80| -263 -80| -263 -20"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -383 -100| -363 -100| -363 -80| -343 -80| -343 -20| -363 -20| -363 20| -343 20| -343 100| -363 100| -363 120| -383 120| -383 140| -543 140| -543 -120| -383 -120| -383 -100"/>
+                                                  <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="! -383 80| -383 20| -503 20| -503 100| -403 100| -403 80| -383 80"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timeline>
+</DOMSymbolItem>
