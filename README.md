@@ -1,72 +1,58 @@
 # World's Hardest Game RL
 
-A reproducible reinforcement learning project built on a Java clone of **World's Hardest Game**.
+A high-accuracy reinforcement learning + planning project for **The World's Hardest Game** with strict collision rules and full 30-level support.
 
-This repo includes:
-- The original playable Java game
-- A deterministic, headless level-1 simulator for RL
-- A planner-assisted Q-learning trainer
-- A watcher that renders trained rollouts as animations
+## Full-Game Demo (All 30 Levels, Strict)
 
-## Demo
+![All 30 levels strict run](rl/models/strict_timeout_levels1_30_flashmove_v3_all30.gif)
 
-The trained policy clearing level 1:
+## Why This Repo Is Different
 
-![RL agent clears level 1](rl/models/level1_run_fast.gif)
+- Full 30-level Flash-derived environment
+- Strict anti-exploit collision handling (edge-aware, no clip-through)
+- Deterministic planning fallback for hard levels
+- End-to-end all-30 strict solved rollout artifact
 
 ## Quick Start
 
-### 1) Play the original Java game
+### 1) Java clone (fast local play)
 
 ```bash
 java -jar "World's Hardest Game.jar"
 ```
 
-### 2) Train the RL agent
+### 2) Level-1 RL baseline
 
 ```bash
 python3 rl/train_agent.py
-```
-
-This writes the model to:
-- `rl/models/level1_qtable.npz`
-
-### 3) Watch the trained agent
-
-```bash
 python3 rl/watch_agent.py --model rl/models/level1_qtable.npz
 ```
 
-Save a fast GIF:
+### 3) Full strict all-30 render
 
 ```bash
-python3 rl/watch_agent.py --model rl/models/level1_qtable.npz --save rl/models/level1_run_fast.gif --fps 30 --frame-stride 3 --no-gui
+python3 rl/render_strict_timeout_sweep.py \
+  --dataset-dir rl/data/flash_levels \
+  --levels 1-30 \
+  --enemy-hit-radius 6.0 \
+  --planner-max-expand 1200000 \
+  --planner-max-segments 1200 \
+  --planner-retry-cap 4200000 \
+  --per-level-timeout-sec 720 \
+  --save rl/models/strict_timeout_levels1_30_flashmove_v3_all30.gif \
+  --manifest-out rl/models/strict_timeout_levels1_30_flashmove_v3_all30_manifest.json
 ```
 
-## Results From Default Setup
+## Key Files
 
-- Dot cycle period: `326` simulation ticks
-- Action repeat: `4` ticks/action
-- Final eval (latest trained artifact): `win_rate=1.000`, `death_rate=0.000`
-
-## Project Layout
-
-```text
-src/                         # Original Java game source
-lib/                         # Java dependencies (TinySound)
-rl/
-  whg_env.py                 # Deterministic headless environment
-  planner.py                 # A* expert trajectory planner
-  train_agent.py             # Tabular Q-learning trainer
-  watch_agent.py             # Rollout visualizer / GIF renderer
-  models/
-    level1_qtable.npz        # Trained policy table
-    level1_run.gif           # Full-length rollout GIF
-    level1_run_fast.gif      # Faster README demo GIF
-```
+- `rl/whg_full_env.py`: strict full-game environment
+- `rl/full_planner.py`: time-aware + hard-level fallback planner
+- `rl/render_strict_timeout_sweep.py`: full sweep runner + GIF generator
+- `rl/models/strict_timeout_levels1_30_flashmove_v3_all30.gif`: all-30 strict gameplay
+- `rl/models/strict_timeout_levels1_30_flashmove_v3_all30_manifest.json`: per-level verification summary
 
 ## Credits
 
-- Original game concept: SnubbyLand / Armor Games
+- Original game: SnubbyLand / Armor Games
 - Java recreation base: Dan Convey
 - TinySound library: finnkuusisto
